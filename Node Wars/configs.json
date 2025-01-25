@@ -1,7 +1,10 @@
 {
-  "limit": 100,
-  "countdown": 300,
-  "country_time": "en-US",
+  "timeZone": "en-US",
+  "skipInvalidProxy": false,
+  "delayEachAccount": [1, 1],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 10,
   "doTasks": true,
-  "playGames": true
+  "playGames": true,
+  "howManyGames": 101
 }
