@@ -1,1 +1,1 @@
-print("This project is ended, please choose another scripts!`)
+print("This project is ended, please choose another scripts!")
